@@ -1,0 +1,23 @@
+{
+  "name": "generate-random-speaker",
+  "version": "1.0.0",
+  "description": "生成随机的团队技术分享演讲者",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunfeng90/generate-random-speaker.git"
+  },
+  "author": "Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunfeng90/generate-random-speaker/issues"
+  },
+  "homepage": "https://github.com/sunfeng90/generate-random-speaker#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
