@@ -7,3 +7,19 @@
 
 ## 使用方法
 
+1. git clone ；
+
+2. npm i ；
+
+3. node index.js
+
+## 配置
+1. 修改index中speakers为你需要随机排序的演讲者姓名；
+
+2. 可选操作：
+   
+   1. 修改index.js中currentWeekLastSpeaker。该名称为不允许出现在结果序列第一个位置的名称。
+   
+   2. 修改index.js中nextSpeakTimes为接下来是第几轮技术分享顺位；
+   
+   3. 修改index.js中speakWeek为未来演讲的日期。如果你不希望结果中出现日期，那么就修改addTimeInTheRes为false。
