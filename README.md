@@ -7,9 +7,9 @@
 
 ## 使用方法
 
-1. git clone ；
+1. git clone https://github.com/sunfeng90/generate-random-speakers.git；
 
-2. npm i ；
+2. sudo npm i ；
 
 3. node index.js
 
